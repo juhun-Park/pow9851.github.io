@@ -20,7 +20,7 @@ description: >- # 구글 검색 및 메타 태그 설명
   데이터 기반 주식 자동매매 및 백테스팅 알고리즘 운용 기록을 매주 아카이빙하는 퀀트 투자 블로그입니다.
 
 # Fill in the protocol & hostname for your site. (끝에 '/' 제외)
-url: "https://pow9851.github.io"
+url: "https://juhun-park.github.io"
 
 github:
   username: pow9851 # GitHub 사용자명
